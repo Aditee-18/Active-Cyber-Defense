@@ -2,7 +2,7 @@
 
 This project demonstrates a practical, end-to-end cybersecurity incident response workflow. It simulates a mini-Security Operations Center (SOC) environment where a live brute-force attack is launched, detected in real-time using Splunk, and subsequently neutralized with a host-based firewall rule.
 
-**[Watch the Full Video Demonstration Here]([./project-demonstration.mp4](https://drive.google.com/file/d/1kJp8djP-pT-f3VMBKxpcAQdYe392_j35/view?usp=sharing))**  
+**[Watch the Full Video Demonstration Here](https://drive.google.com/file/d/1kJp8djP-pT-f3VMBKxpcAQdYe392_j35/view?usp=sharing)**  
 
 ## Project Overview
 
