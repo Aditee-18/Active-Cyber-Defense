@@ -2,6 +2,8 @@
 
 This project demonstrates a practical, end-to-end cybersecurity incident response workflow. It simulates a mini-Security Operations Center (SOC) environment where a live brute-force attack is launched, detected in real-time using Splunk, and subsequently neutralized with a host-based firewall rule.
 
+**[Watch the Full Video Demonstration Here]([./project-demonstration.mp4](https://drive.google.com/file/d/1kJp8djP-pT-f3VMBKxpcAQdYe392_j35/view?usp=sharing))**  
+
 ## Project Overview
 
 The core challenge this project addresses is the lack of real-time visibility into network threats. Without active monitoring, attacks like SSH brute-force attempts can go unnoticed, providing attackers ample time to compromise systems. This lab proves the effectiveness of using a Security Information and Event Management (SIEM) tool to dramatically shorten the time from attack to detection and response.
